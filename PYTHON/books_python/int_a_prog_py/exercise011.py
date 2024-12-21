@@ -5,7 +5,7 @@ using the values in the following table:
 A       B       C           D           Result
 1       2       True        False       False
 10      3       False       False       False
-5       1       True        True
+5       1       True        True        True
 '''
 
 case1_a = 1
